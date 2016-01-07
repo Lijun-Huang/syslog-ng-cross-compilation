@@ -1,0 +1,1 @@
+# syslog-ng-cross-compilation
